@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|d:\\users\\mateusz.skora\\documents\\github\\aspnetlab1\\webapp1\\webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|d:\\users\\mateusz.skora\\documents\\github\\aspnetlab1\\webapp1\\webapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|d:\\users\\mateusz.skora\\documents\\github\\aspnetlab1\\webapp1\\webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|d:\\users\\mateusz.skora\\documents\\github\\aspnetlab1\\webapp1\\webapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74CBFB14-AC06-4066-A76D-CD140AF01A9E}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Program.cs",
+              "ToolTip": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeToolTip": "WebApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:49:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T06:43:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T06:42:55.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\mateusz.skora\\Documents\\GitHub\\ASPNETlab1\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T06:42:40.701Z",
+              "EditorCaption": ""
             }
           ]
         }

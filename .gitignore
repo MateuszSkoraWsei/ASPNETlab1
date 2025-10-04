@@ -1,0 +1,39 @@
+## Pliki i foldery generowane przez Visual Studio
+.vs/
+*.user
+*.suo
+
+## Pliki buildów i publikacji
+bin/
+obj/
+out/
+publish/
+
+## Pliki zależności NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Pliki ustawień systemowych
+*.DS_Store
+*.Thumbs.db
+
+## Pliki logów
+*.log
+
+## Pliki tymczasowe
+*.tmp
+*.temp
+
+## Pliki konfiguracji środowiska
+.env
+
+## Pliki generowane przez Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Pliki testów
+TestResults/
